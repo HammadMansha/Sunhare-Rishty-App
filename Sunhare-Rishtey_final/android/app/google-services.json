@@ -1,0 +1,141 @@
+{
+  "project_info": {
+    "project_number": "387652573000",
+    "firebase_url": "https://sunhare-rishtey-bc161-default-rtdb.firebaseio.com",
+    "project_id": "sunhare-rishtey-bc161",
+    "storage_bucket": "sunhare-rishtey-bc161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387652573000:android:257cf8caf3458e2596057d",
+        "android_client_info": {
+          "package_name": "com.example.matrimonial_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387652573000-0nol9t1i9sphh0ea9r5tohsjt5u2ndg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ga04ZDJCYp8OBLSKfzRsUPnJOstPRhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387652573000-0nol9t1i9sphh0ea9r5tohsjt5u2ndg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387652573000:android:a00db79fab40976396057d",
+        "android_client_info": {
+          "package_name": "com.sunhare.rishtey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387652573000-26f11bft4hs7jigmf0o0g4mlrvf7l0l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunhare.rishtey",
+            "certificate_hash": "362aa44771d824ebad0920d43e268dd2b3ea097b"
+          }
+        },
+        {
+          "client_id": "387652573000-2vre1f1iju3r0ja1u02clup2e63lk43a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunhare.rishtey",
+            "certificate_hash": "f83033e6e2ff5f2f869a89e0df7294ae8d742ca6"
+          }
+        },
+        {
+          "client_id": "387652573000-30ljm2sjad3par3qmiv3la5kr62t8v3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunhare.rishtey",
+            "certificate_hash": "d9d80343cbdd8dee1f76073459ebc0a8cd64f698"
+          }
+        },
+        {
+          "client_id": "387652573000-6brgp627oaa809k754vra8qtr522fj4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunhare.rishtey",
+            "certificate_hash": "0bee2ce2e1ea2b7bfb0a54b09553588c6e66e40c"
+          }
+        },
+        {
+          "client_id": "387652573000-c3oqqoibu31m3vvulf06u3kl4c5t6ifm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunhare.rishtey",
+            "certificate_hash": "ff4ccb6ca09f7ca5057d3833656a68d333051f43"
+          }
+        },
+        {
+          "client_id": "387652573000-dqas8msietpvjp48iq1u0c1ugojllsra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunhare.rishtey",
+            "certificate_hash": "74cba12765fc08707bb7c213cc1dd56b649523f6"
+          }
+        },
+        {
+          "client_id": "387652573000-e8ce00a0dpda92d1oiaucb7fmld6p2cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunhare.rishtey",
+            "certificate_hash": "b79e5b36faff546fff508dd9be91aef07542eab5"
+          }
+        },
+        {
+          "client_id": "387652573000-ge5o0370c35gruc0n9sr9ou5sql0svb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunhare.rishtey",
+            "certificate_hash": "9514e2a3fcf38501558bbed3af95dd2a85e46da0"
+          }
+        },
+        {
+          "client_id": "387652573000-kkhd2u64iii01cnnn9eotu9hfnr1hc09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunhare.rishtey",
+            "certificate_hash": "febc1a828239554a8d0f1b0fbeaef4f9cd118d11"
+          }
+        },
+        {
+          "client_id": "387652573000-0nol9t1i9sphh0ea9r5tohsjt5u2ndg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ga04ZDJCYp8OBLSKfzRsUPnJOstPRhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387652573000-0nol9t1i9sphh0ea9r5tohsjt5u2ndg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
